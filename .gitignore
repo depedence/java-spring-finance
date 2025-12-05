@@ -1,4 +1,4 @@
-.gradle
+backend/.gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
@@ -40,4 +40,7 @@ bin/
 .DS_Store
 
 ### Database ###
-finance.db
+backend/finance.db
+
+### Frontend ###
+frontend/node_modules
